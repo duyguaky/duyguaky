@@ -6,11 +6,6 @@ I enjoy discovering new technologies, improving my programming skills, and learn
 
 I like working on small projects because they help me gain practical experience and improve my problem-solving skills. I believe that learning by doing is the best way to grow in software development.
 
-Recently, I have been focusing more on GitHub, database design, and understanding software development processes. I also enjoy exploring how real-world systems are planned, designed, and developed step by step.
-
-My goal is to keep improving myself, gain stronger technical knowledge, and build useful projects that help me grow both academically and professionally.
-
----
 
 ## 🛠 Skills
 
@@ -21,7 +16,6 @@ My goal is to keep improving myself, gain stronger technical knowledge, and buil
 - Tools: Git, GitHub, Visual Studio Code
 - Practical Experience: Working on small software projects and improving problem-solving skills
 
----
 
 ## 🌱 I’m currently learning
 
@@ -33,7 +27,6 @@ My goal is to keep improving myself, gain stronger technical knowledge, and buil
 - Improving practical coding skills
 - Working more deeply with web technologies
 
----
 
 ## 👯 I’m looking to collaborate on
 
@@ -43,7 +36,6 @@ My goal is to keep improving myself, gain stronger technical knowledge, and buil
 - Team projects where I can improve my practical skills
 - Learning-focused programming projects
 
----
 
 ## 📫 How to reach me
 
